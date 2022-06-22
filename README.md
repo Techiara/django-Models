@@ -1,1 +1,4 @@
 # django-Models
+When activating the virtual environment, you do not need to be inside the virtual environment folder (in this case; .env). You can simply use activate while inside the rrot directory (in this case; django-models, at least when using venv).
+When using the "django-admin startproject Projrct ." command (that is when using full stop after the project name to prefent double folders) ensure you create the app in the root directory (in this case, django-models) rather than inside the project. Adhering to this simple instruction will save you at least 7 hours of confusion.
+Let's use more of virtualenv, it seems to be more favoured by mentors.
